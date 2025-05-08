@@ -1,23 +1,77 @@
 {
-  "category": "Body sculpting",
-  "description": "At Malva, we harness ultrasonic radio waves to penetrate deep into your skin layers, inducing a disruptive vibration...",
-  "additionalInfo": "Experience body contouring without anesthesia, scars, or downtime. Let Malva's Skincare Experts recommend targeted solutions...",
-  "faq": [
-    {
-      "question": "What are the benefits of body sculpting?",
-      "answer": "Improve Skin Texture, Enhance Body Tone and Shape, Define and Customize Curves..."
-    },
-    {
-      "question": "Does body contouring work?",
-      "answer": "Clients typically notice a reduction in circumference within a few sessions..."
-    },
-    {
-      "question": "What is the difference between body sculpting and Cool Technologies?",
-      "answer": "Ultrasonic cavitation employs ultrasound frequencies, while Cool Technologies use cold temperatures..."
-    },
-    {
-      "question": "How frequently do I need body sculpting treatments?",
-      "answer": "Typically every 7-10 days, depending on treatment area and goals..."
+  "clinic": "Malva",
+  "treatment": {
+    "name": "Ultrasonic Cavitation",
+    "method": "Low-frequency ultrasonic radio waves",
+    "mechanism": "Waves create microscopic bubbles around fat cells which rupture them through resonance",
+    "fat_removal": "Fat is naturally expelled through the lymphatic system within 2–3 days",
+    "type": "Body contouring (not weight loss)"
+  },
+  "candidates": {
+    "ideal": "Healthy, non-smoking individuals within 10–15 lbs of their goal weight",
+    "not_suitable_for": [
+      "Pregnant individuals",
+      "People with cancer",
+      "People with pacemakers",
+      "Those with liver or kidney issues",
+      "Those with infections"
+    ]
+  },
+  "common_areas": [
+    "Abdomen",
+    "Waist",
+    "Hips",
+    "Thighs",
+    "Arms",
+    "Chin",
+    "Back",
+    "Chest",
+    "Neck"
+  ],
+  "benefits": [
+    "Improved skin texture",
+    "Better body tone",
+    "Smoothing of cellulite",
+    "Sculpting of curves",
+    "No pain or downtime"
+  ],
+  "session": {
+    "duration": "30–45 minutes",
+    "recommended_plan": {
+      "sessions": "6–12 sessions every 7–10 days",
+      "visible_results": "After 2–3 sessions",
+      "final_results": "In 6–12 weeks",
+      "maintenance": "Every 3–6 months"
     }
-  ]
+  },
+  "side_effects": [
+    "Temporary redness",
+    "Swelling",
+    "Tenderness"
+  ],
+  "instructions": {
+    "before": [
+      "Avoid alcohol",
+      "Avoid caffeine",
+      "Hydrate well"
+    ],
+    "after": [
+      "Continue hydrating",
+      "Avoid alcohol for 48h",
+      "Avoid heavy workouts for 48h"
+    ]
+  },
+  "comparison_with_coolsculpting": {
+    "cavitation": {
+      "method": "Ultrasound",
+      "cost": "Lower",
+      "downtime": "None"
+    },
+    "coolsculpting": {
+      "method": "Cold (-5 to -10°C)",
+      "duration": "Longer",
+      "effect": "May be more permanent",
+      "discomfort": "Higher"
+    }
+  }
 }
