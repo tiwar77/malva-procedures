@@ -1,0 +1,77 @@
+{
+  "location": "8718 Meadowlark Rd NW, Edmonton, AB T5R 5W4",
+  "pricing": {
+    "first_session": 120,
+    "regular_price": 240,
+    "packages": {
+      "4_sessions": 899,
+      "8_sessions": 1699,
+      "10_sessions": 2199
+    }
+  },
+  "treatment_plan": {
+    "recommended_minimum_sessions": 5,
+    "customizable": true,
+    "frequency": "Every 7–10 days",
+    "note": "Frequency may vary depending on area and goals"
+  },
+  "pain_level": {
+    "description": "Not painful",
+    "client_feedback": "Feels like a deep tissue massage",
+    "adjustable_settings": true
+  },
+  "benefits": {
+    "vacuum_body_sculpting": [
+      "Boosts circulation",
+      "Improves lymphatic drainage",
+      "Breaks down fat",
+      "Reduces cellulite",
+      "Tones skin",
+      "Firms skin"
+    ],
+    "body_sculpting": [
+      "Improves skin texture",
+      "Enhances body tone and shape",
+      "Defines and customizes curves",
+      "Increases blood and/or lymphatic circulation",
+      "Treats and smooths cellulite",
+      "Tightens connective tissue",
+      "No pain",
+      "No recovery time",
+      "No needles"
+    ]
+  },
+  "comfort": {
+    "overall_experience": "Painless and comfortable",
+    "possible_discomfort": [
+      "Mild noise",
+      "Warm sensation"
+    ],
+    "discomfort_duration": "Disappears quickly after treatment"
+  },
+  "effectiveness": {
+    "confirmation": "Yes, it works",
+    "results": "Reduction in circumference after a few sessions",
+    "individual_variability_factors": [
+      "Body structure",
+      "Age",
+      "Metabolism",
+      "Lifestyle"
+    ],
+    "maintenance": "Healthy diet and exercise enhance results"
+  },
+  "comparison": {
+    "body_sculpting": "Uses ultrasound (ultrasonic cavitation) to break down fat cells",
+    "cool_technologies": {
+      "name": "CoolTech",
+      "method": "Cold temperatures",
+      "session_length": "Longer",
+      "cost": "More expensive",
+      "benefits": "Similar to ultrasonic cavitation"
+    }
+  },
+  "booking": {
+    "online": true,
+    "link": "https://www.fresha.com/book-now/malva-health-and-beauty-centre-h512l5vh/services?lid=1126464&eid=2673979&oiid=sv%3A20680620&share&pId=1068281"
+  }
+}
